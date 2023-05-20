@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b1e183b-d709-44ab-a854-bcc8402fd36c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/A380_1893.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/A380_1893.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Kniga_Sandro_1723.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Kniga_Sandro_1723.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Kod_Hemminga_1792.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Kod_Hemminga_1792.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Povorot_na_MEGU_1787.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Povorot_na_MEGU_1787.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Ruini_titanov_1910.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Ruini_titanov_1910.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Shivrovka_1654.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Shivrovka_1654.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Sobstvenie_chisla_1880.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Sobstvenie_chisla_1880.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Uralskie_bifteksi_1820.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Uralskie_bifteksi_1820.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Velosipednie_kodi_1877.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Velosipednie_kodi_1877.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Yazik_Ocean_1881.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Yazik_Ocean_1881.java" afterDir="false" />
-    </list>
+    <list default="true" id="1b1e183b-d709-44ab-a854-bcc8402fd36c" name="Changes" comment="Timus2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,6 +45,14 @@
       <option name="presentableId" value="Default" />
       <updated>1684607651614</updated>
     </task>
+    <task id="LOCAL-00001" summary="Timus2">
+      <created>1684609361258</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684609361258</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,5 +65,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Timus2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Timus2" />
   </component>
 </project>
